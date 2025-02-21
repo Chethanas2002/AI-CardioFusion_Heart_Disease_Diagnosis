@@ -1,16 +1,19 @@
-# Automated_Ensemble_Cardiometric_Portal
+# Automated Ensemble Cardiometric Portal
 
-
-![Project Preview](./public/landing_page.png.png)
+![Project Preview](public/landing_page.png)
 ## Description
 This project implements a machine learning model ensemble using blending techniques to improve predictive accuracy. The system consists of a Flask backend serving the model and a React-based frontend for user interaction.
 
-## Installation and Setup
+## Try it out Here !! 
+
+**💻 Recommended: [Desktop View](https://cardiometric-portal.onrender.com) for the Best Experience**
+
+
+## Installation and Setup on your Local System
 
 ### 1. Clone the Repository
 ```sh
-git clone <YOUR_GITHUB_REPO_URL>
-cd <cardiometrics-portal>
+git clone https://github.com/dhanyashreem2400/Automated_Ensemble_Cardiometric_Portal
 ```
 
 ### 2. Install Backend Dependencies
@@ -46,7 +49,7 @@ Once both the backend and frontend are running, you can access the application i
 
 
 ## Deployment
-If deploying to Render or another hosting service, ensure that:
+If deploying to any other hosting service, ensure that:
 - The Flask backend is hosted with the required environment variables.
 - The frontend is deployed separately and points to the correct backend URL.
 
@@ -54,6 +57,5 @@ If deploying to Render or another hosting service, ensure that:
 - **Ensure you don’t push `node_modules/` or `__pycache__/` to GitHub** (these are ignored in `.gitignore`).
 - **Use a virtual environment for Python** (`python -m venv env` and `source env/bin/activate` or `env\Scripts\activate` for Windows).
 
-## License
-This project is open-source and available for use under the MIT License.
+
 
