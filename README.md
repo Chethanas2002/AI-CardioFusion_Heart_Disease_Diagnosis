@@ -13,7 +13,7 @@ This project implements a machine learning model ensemble using blending techniq
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/dhanyashreem2400/Automated_Ensemble_Cardiometric_Portal
+git clone https://github.com/Chethanas2002/AI-CardioFusion_Heart_Disease_Diagnosis
 ```
 
 ### 2. Install Backend Dependencies
